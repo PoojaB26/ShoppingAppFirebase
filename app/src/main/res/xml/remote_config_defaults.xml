@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>special</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>special_message</key>
+        <value>Today is Independence Day</value>
+    </entry>
+</defaultsMap>
